@@ -162,7 +162,7 @@ graph LR
 
 `Terraform` `Transit Gateway` `CloudFront` `WAFv2` `SSM Bridge`
 
-[**Explore Repository**](https://github.com/M-Bash/TokyoAPPI) | [**View Audit Manifest**](https://github.com/M-Bash/TokyoAPPI/DELIVERABLES/README.md)
+[**Explore Repository**](https://github.com/M-Bash/TokyoAPPI) | [**View Audit Manifest**](https://github.com/M-Bash/TokyoAPPI/blob/main/DELIVERABLES/README.md)
 
 ---
 
