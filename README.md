@@ -2,8 +2,16 @@
 <!-- Dynamic Banner using Capsule Render -->
 <!-- Theme: Waving, Dark Mode, Centered, Professional Font -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=MAHAMED%20BASHIR&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=25&descAlignY=55&descAlign=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,0d1117,1a237e,0d1117&height=280&section=header&text=MAHAMED%20BASHIR&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=22&descAlignY=55&descAlign=62" width="100%" alt="Header" />
 </div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=40C463&center=true&vCenter=true&width=800&lines=Architecting+Multi-Region+AWS+Solutions;Enforcing+Compliance+via+IaC;Automating+Zero-Trust+Pipelines;Optimizing+High-Availability+Backbones" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 <!-- PART 2: THE "HOOK" (TYPING ANIMATION) -->
 <!-- Psychology: This forces the eye to track the movement, increasing 'Time on Page' -->
