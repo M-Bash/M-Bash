@@ -1,13 +1,15 @@
 <!-- PART 1: THE HERO HEADER -->
 <!-- Dynamic Banner using Capsule Render -->
 <!-- Theme: Waving, Dark Mode, Centered, Professional Font -->
+<!-- PART 1: THE HERO HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=000000,000000,0d1117,000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=20&descAlignY=55&descAlign=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=20&descAlignY=55&descAlign=62" width="100%" alt="Header" />
 </div>
 
+<!-- PART 2: THE HOOK (FIXED WIDTH & TEXT) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=79C0FF&center=true&vCenter=true&width=800&lines=Architecting+Multi-Region+AWS+Solutions;Enforcing+Compliance+via+Infrastructure+as+Code;Automating+Zero-Trust+Security+Pipelines;Optimizing+High-Availability+Backbones" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=79C0FF&center=true&vCenter=true&width=1000&lines=Architecting+Multi-Region+AWS+Backbones;Enforcing+Compliance+via+IaC;Automating+Zero-Trust+Security+Pipelines;Optimizing+High-Availability+Architectures" alt="Typing SVG" />
   </a>
 </div>
 
