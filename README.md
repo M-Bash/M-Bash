@@ -109,20 +109,19 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 ### 📊 Live Telemetry
 
 <!-- We use a table to force the stats and language graph to sit side-by-side -->
+### 📊 Live Telemetry
+
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bashir's Stats" />
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
