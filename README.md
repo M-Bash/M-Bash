@@ -115,9 +115,9 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 </div> -->
 
 <!-- This is a custom 'Activity' bar that is more stable -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Bash&theme=tokyonight" alt="Summary Card" width="100%"/>
-</div>
+</div> -->
 
 ---
 
