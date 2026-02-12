@@ -1,7 +1,4 @@
 <!-- PART 1: THE HERO HEADER -->
-<!-- Dynamic Banner using Capsule Render -->
-<!-- Theme: Waving, Dark Mode, Centered, Professional Font -->
-<!-- PART 1: THE HERO HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=20&descAlignY=55&descAlign=62" width="100%" alt="Header" />
 </div>
@@ -15,12 +12,7 @@
 
 <br/>
 
-<!-- PART 2: THE "HOOK" (TYPING ANIMATION) -->
-<!-- Psychology: This forces the eye to track the movement, increasing 'Time on Page' -->
-
-
 <!-- PART 3: THE SOCIAL PROOF (BADGES) -->
-<!-- Strategy: High contrast, official branding colors, direct CTA -->
 <div align="center">
   <a href="https://www.linkedin.com/in/mahamed-bashir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -38,7 +30,6 @@
 <br/>
 <br/>
 <p align="center">
-  <!-- This invisible character forces a clean visual break -->
   &nbsp;
 </p>
 
@@ -100,24 +91,12 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 <br/>
 
 <!-- CERTIFICATIONS AREA -->
-<!-- Strategy: Use official hex codes. AWS Gold (#FF9900) and HashiCorp Purple (#5C4EE5) -->
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-232F3E?style=for-the-badge&logo=terraform&logoColor=5C4EE5" />
 </div>
 
 <br/>
-
-<!-- ### 📊 Engineering Metrics -->
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-</div> -->
-
-<!-- This is a custom 'Activity' bar that is more stable -->
-<!-- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Bash&theme=tokyonight" alt="Summary Card" width="100%"/>
-</div> -->
 
 ---
 
