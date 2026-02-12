@@ -141,8 +141,7 @@ graph LR
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <div align="right">
   <i>The Pulse Engine: Automated cross-repo activity tracking enabled.</i>
 </div>
+<!--END_SECTION:activity-->
