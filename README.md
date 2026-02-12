@@ -108,9 +108,9 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 
 ### 📊 Engineering Metrics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-</div>
+</div> -->
 
 <!-- This is a custom 'Activity' bar that is more stable -->
 <div align="center">
