@@ -65,29 +65,29 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 ### 🛠️ The Arsenal
 
 <div align="center">
-  <table>
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" style="border: none;">
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
         <br><b>Cloud</b>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="border: none;">
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
         <br><b>IaC</b>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="border: none;">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
         <br><b>Automation</b>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="border: none;">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
         <br><b>Scripting</b>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="border: none;">
         <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
         <br><b>CI/CD</b>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="border: none;">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
         <br><b>Core</b>
       </td>
@@ -106,19 +106,16 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 
 <br/>
 
-### 📊 Live Telemetry
+### 📊 Engineering Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&text_color=79C0FF&icon_color=79C0FF&title_color=ffffff" alt="Bashir's Stats" height="180px" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&text_color=79C0FF&icon_color=79C0FF&title_color=ffffff" alt="Top Languages" height="180px" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bash&theme=tokyonight&hide_border=true&stroke=00000000&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<br/>
+<!-- This is a custom 'Activity' bar that is more stable -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Bash&theme=tokyonight" alt="Summary Card" width="100%"/>
+</div>
 
 ---
 
