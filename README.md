@@ -1,16 +1,166 @@
-## Hi there 👋
+<!-- PART 1: THE HERO HEADER -->
+<!-- Dynamic Banner using Capsule Render -->
+<!-- Theme: Waving, Dark Mode, Centered, Professional Font -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=MAHAMED%20BASHIR&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=25&descAlignY=55&descAlign=62" width="100%" alt="Header" />
+</div>
 
-<!--
-**M-Bash/M-Bash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- PART 2: THE "HOOK" (TYPING ANIMATION) -->
+<!-- Psychology: This forces the eye to track the movement, increasing 'Time on Page' -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Architecting+Multi-Region+AWS+Solutions;Enforcing+Compliance+via+Infrastructure+as+Code;Automating+Zero-Trust+Security+Pipelines;Turning+Coffee+into+Terraform+State_Files" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<!-- PART 3: THE SOCIAL PROOF (BADGES) -->
+<!-- Strategy: High contrast, official branding colors, direct CTA -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahamed-bashir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mbas2097152@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Projects-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+### 👨‍💻 Engineering Philosophy
+
+I believe that **hope is not a strategy**. Reliable infrastructure is built on deterministic code, rigorous security controls, and automated verification. I don't just deploy resources; I build platforms that allow teams to ship faster without breaking things.
+
+<table>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <h3>🏛️ Infrastructure as Code</h3>
+      <p>If it isn't in Git, it doesn't exist. I strictly define infrastructure using Terraform to prevent drift and ensure disaster recovery is a <code>terraform apply</code> away.</p>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <h3>🛡️ Security by Design</h3>
+      <p>Compliance isn't an afterthought. I bake IAM least-privilege, WAF shielding, and encryption into the pipeline. I build architectures that pass audits by default.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ The Arsenal
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br><b>Cloud</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+        <br><b>IaC</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br><b>Automation</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+        <br><b>Scripting</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
+        <br><b>CI/CD</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br><b>Core</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- CERTIFICATIONS AREA -->
+<!-- Strategy: Use official hex codes. AWS Gold (#FF9900) and HashiCorp Purple (#5C4EE5) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-232F3E?style=for-the-badge&logo=terraform&logoColor=5C4EE5" />
+</div>
+
+<br/>
+
+### 📊 Live Telemetry
+
+<!-- We use a table to force the stats and language graph to sit side-by-side -->
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bashir's Stats" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏗️ Featured Architecture Case Studies
+
+#### 📡 TokyoAPPI: Multi-Region Compliance Backbone
+> **The Challenge:** Architect a telemedicine platform requiring 99.99% availability while strictly adhering to Japan's APPI data residency laws—preventing PHI (Patient Health Information) from persisting in the failover region (Brazil).
+
+<div align="center">
+
+```mermaid
+graph LR
+    User((User)) -- HTTPS --> CF[CloudFront Edge]
+    CF -- Primary --> ALBT[Tokyo ALB]
+    CF -- Failover --> ALBS[Brazil ALB]
+    
+    subgraph Hub [Tokyo Hub - Authority]
+        ALBT --> EC2T[App Tier]
+        EC2T --> RDST[(RDS Master)]
+    end
+    
+    subgraph Spoke [Brazil Spoke - Stateless]
+        ALBS --> EC2S[Stateless Tier]
+    end
+    
+    EC2S -- Private TGW Corridor --> RDST
+```
+
+</div>
+
+**The Solution:**
+*   **Asymmetric Hub-and-Spoke:** Centralized persistence in `ap-northeast-1` with a stateless, compute-only extension in `sa-east-1`.
+*   **The Legal Corridor:** Established **Transit Gateway (TGW) Peering** to route cross-region traffic over the AWS private backbone, bypassing the public internet.
+*   **Origin Cloaking:** Implemented a "Double-Lock" security posture using **WAFv2** at the edge and **X-Origin-Secret** header handshakes at the ALB.
+
+`Terraform` `Transit Gateway` `CloudFront` `WAFv2` `SSM Bridge`
+
+[**Explore Repository**](https://github.com/M-Bash/TokyoAPPI) | [**View Audit Manifest**](https://github.com/M-Bash/TokyoAPPI/DELIVERABLES/README.md)
+
+---
+
+---
+
+### ⚡ Recent Activity
+<!-- START_SECTION:activity -->
+<!-- This section will be automatically updated by a GitHub Action -->
+<!-- END_SECTION:activity -->
+
+<div align="right">
+  <i>Last updated on: <!-- TIMESTAMP_GOES_HERE --></i>
+</div>
