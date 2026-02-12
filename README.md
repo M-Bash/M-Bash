@@ -108,7 +108,7 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 
 <br/>
 
-<!-- ### 📊 Engineering Metrics --> -->
+<!-- ### 📊 Engineering Metrics -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
