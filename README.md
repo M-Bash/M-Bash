@@ -15,11 +15,7 @@
 
 <!-- PART 2: THE "HOOK" (TYPING ANIMATION) -->
 <!-- Psychology: This forces the eye to track the movement, increasing 'Time on Page' -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Architecting+Multi-Region+AWS+Solutions;Enforcing+Compliance+via+Infrastructure+as+Code;Automating+Zero-Trust+Security+Pipelines;Turning+Coffee+into+Terraform+State_Files" alt="Typing SVG" />
-  </a>
-</div>
+
 
 <!-- PART 3: THE SOCIAL PROOF (BADGES) -->
 <!-- Strategy: High contrast, official branding colors, direct CTA -->
