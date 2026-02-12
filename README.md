@@ -2,7 +2,7 @@
 <!-- Dynamic Banner using Capsule Render -->
 <!-- Theme: Waving, Dark Mode, Centered, Professional Font -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=000000,161b22,0d1117,000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=20&descAlignY=55&descAlign=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=000000,000000,0d1117,000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=20&descAlignY=55&descAlign=62" width="100%" alt="Header" />
 </div>
 
 <div align="center">
