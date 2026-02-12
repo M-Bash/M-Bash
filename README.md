@@ -108,7 +108,7 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 
 <br/>
 
-### 📊 Engineering Metrics
+<!-- ### 📊 Engineering Metrics -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
@@ -159,13 +159,10 @@ graph LR
 
 ---
 
----
-
 ### ⚡ Recent Activity
 <!-- START_SECTION:activity -->
-<!-- This section will be automatically updated by a GitHub Action -->
 <!-- END_SECTION:activity -->
 
 <div align="right">
-  <i>Last updated on: <!-- TIMESTAMP_GOES_HERE --></i>
+  <i>The Pulse Engine: Automated cross-repo activity tracking enabled.</i>
 </div>
