@@ -14,12 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main # Explicitly target the main branch
-          
-      - name: Update README
-        uses: jamesgeorge007/github-activity-readme@master
+          ref: main
+
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "⚡ Update GitHub activity [automated]"
-          MAX_LINES: 5
+          MAX_LINES: 10
+          FILTER_EVENTS: "PushEvent,PullRequestEvent,IssuesEvent,IssueCommentEvent"
