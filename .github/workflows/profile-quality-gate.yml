@@ -1,0 +1,31 @@
+name: "Profile Quality Gate"
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+
+jobs:
+  lint-and-validate:
+    name: "Markdown & Link Audit"
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Markdown Lint
+        uses: davidanson/markdownlint-cli2-action@v16
+        with:
+          globs: "README.md"
+
+      - name: Check for Broken Links
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --verbose --no-progress README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
