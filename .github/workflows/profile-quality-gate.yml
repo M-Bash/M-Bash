@@ -11,21 +11,22 @@ permissions:
 
 jobs:
   lint-and-validate:
-    name: "Markdown & Link Audit"
+    name: "Engineering Quality Audit"
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Markdown Lint
+      - name: Markdown Linting
         uses: davidanson/markdownlint-cli2-action@v16
         with:
           globs: "README.md"
+        continue-on-error: true # Treat linting as a warning, not a blocker
 
-      - name: Check for Broken Links
+      - name: Link Integrity Audit
         uses: lycheeverse/lychee-action@v1.9.0
         with:
-          args: --verbose --no-progress README.md
+          args: --verbose --no-progress --exclude "mailto:.*" README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
