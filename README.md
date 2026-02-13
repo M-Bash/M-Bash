@@ -1,4 +1,4 @@
-![Profile Quality Gate](https://github.com/M-Bash/M-Bash/actions/workflows/profile-quality-gate.yml/badge.svg)
+[![Profile Quality Gate](https://img.shields.io/github/actions/workflow/status/M-Bash/M-Bash/profile-quality-gate.yml?branch=main&style=for-the-badge&logo=github&label=Profile%20Quality%20Gate)](https://github.com/M-Bash/M-Bash/actions/workflows/profile-quality-gate.yml)
 <!-- PART 1: THE HERO HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cloud%20Infrastructure%20%7C%20DevSecOps%20%7C%20Automation&descSize=20&descAlignY=55&descAlign=62" width="100%" alt="Header" />
