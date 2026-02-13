@@ -1,0 +1,6 @@
+config:
+  MD013: false # Disable line length (needed for long SVG URLs)
+  MD033: false # Disable no-inline-html (needed for our UI/UX tables)
+  MD041: false # Disable first-line-h1 (we have a banner/badge at the top)
+  MD045: false # Disable alt-text requirements for decorative SVGs
+  MD012: false # Disable multiple blank lines (used for spacing)
