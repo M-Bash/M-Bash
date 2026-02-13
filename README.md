@@ -55,7 +55,7 @@ I believe that **hope is not a strategy**. Reliable infrastructure is built on d
 
 ---
 
-### 🛠️ The Arsenal
+### 🛠️ Toolkit
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
