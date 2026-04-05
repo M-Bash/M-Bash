@@ -2,8 +2,9 @@
 
 <div align="center">
 
-<!-- BANNER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Engineer%20the%20Cost%20Down.%20Architect%20the%20Risk%20Out.&descSize=22&descAlignY=55&descAlign=62" width="100%" alt="M-Bash Banner" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=8aadf4&center=true&vCenter=true&width=1000&lines=Engineering+High-Leverage+Cloud+Systems;Architecting+Regulated+AI+Backbones;Enforcing+Global+Data+Sovereignty;Optimizing+Infrastructure+Unit+Economics" alt="Typing SVG" />
@@ -11,7 +12,7 @@
 
 <br/>
 
-<!-- LINKS -->
+
 <a href="https://www.linkedin.com/in/mahamed-bashir" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%238aadf4.svg?style=for-the-badge&logo=linkedin&logoColor=24273a" />
 </a>
@@ -34,7 +35,7 @@
 ---
 
 ### Engineering Philosophy
-Building systems that decouple **time** from **money**. Architecting for highly-regulated industries where security is not a checkbox — it’s a prerequisite for existence. My work focuses on **Infrastructure-as-Code**, **Zero-Trust Security**, and **FinOps** discipline to ensure that scale never comes at the cost of stability or profitability.
+I build systems that decouple **time** from **money**. I architect for highly-regulated industries where security is not a checkbox—it’s a prerequisite for existence. My work focuses on **Infrastructure-as-Code**, **Zero-Trust Security**, and **FinOps** discipline to ensure that scale never comes at the cost of stability or profitability.
 
 ---
 
@@ -73,7 +74,7 @@ graph LR
 
 ---
 
-### 🛠️ Core
+### Core
 
 <div align="center">
 
@@ -85,7 +86,7 @@ graph LR
 
 ---
 
-### 📊 Tracker
+### Tracker
 
 <div align="center">
 
