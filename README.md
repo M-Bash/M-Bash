@@ -2,7 +2,11 @@
 
 <div align="center">
 
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Engineer%20the%20Cost%20Down.%20Architect%20the%20Risk%20Out.&descSize=22&descAlignY=55&descAlign=62" width="100%" alt="M-Bash Banner" />
+
+<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=8aadf4&center=true&vCenter=true&width=1000&lines=Engineering+High-Leverage+Cloud+Systems;Architecting+Regulated+AI+Backbones;Enforcing+Global+Data+Sovereignty;Optimizing+Infrastructure+Unit+Economics" alt="Typing SVG" />
@@ -32,7 +36,7 @@
 ---
 
 ### Engineering Philosophy
-Building systems that decouple **time** from **money**. Architecting for highly-regulated industries where security is not a checkbox — it’s a prerequisite for existence. My work focuses on **Infrastructure-as-Code**, **Zero-Trust Security**, and **FinOps** discipline to ensure that scale never comes at the cost of stability or profitability.
+Building systems that decouple **time** from **money**. Architecting for highly-regulated industries where security is not a checkbox — it's a prerequisite for existence. My work focuses on **Infrastructure-as-Code**, **Zero-Trust Security**, and **FinOps** discipline to ensure that scale never comes at the cost of stability or profitability.
 
 ---
 
@@ -77,7 +81,7 @@ graph LR
 
 | Compute & Mesh | Infrastructure & Security | AI & Compliance |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes" height="40" /> | <img src="https://skillicons.dev/icons?i=terraform,vault,githubactions" height="40" /> | <img src="https://skillicons.dev/icons?i=python,bash,linux" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes" height="40" /> | <img src="https://skillicons.dev/icons?i=terraform,githubactions,linux" height="40" />&nbsp;<img src="https://img.shields.io/badge/Vault-%23FFCF25.svg?style=flat-square&logo=vault&logoColor=000000" height="24" /> | <img src="https://skillicons.dev/icons?i=python,bash,docker" height="40" /> |
 
 </div>
 
@@ -87,11 +91,11 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true" height="150" />
+[![Mahamed's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true)](https://wakatime.com/@M_Bash)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=M_Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true" height="150" />
 
 </div>
 
