@@ -2,16 +2,13 @@
 
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Engineer%20the%20Cost%20Down.%20Architect%20the%20Risk%20Out.&descSize=22&descAlignY=55&descAlign=62" width="100%" alt="M-Bash Banner" />
-
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=8aadf4&center=true&vCenter=true&width=1000&lines=Engineering+High-Leverage+Cloud+Systems;Architecting+Regulated+AI+Backbones;Enforcing+Global+Data+Sovereignty;Optimizing+Infrastructure+Unit+Economics" alt="Typing SVG" />
 </a>
 
 <br/>
-
 
 <a href="https://www.linkedin.com/in/mahamed-bashir" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%238aadf4.svg?style=for-the-badge&logo=linkedin&logoColor=24273a" />
@@ -35,12 +32,12 @@
 ---
 
 ### Engineering Philosophy
-I build systems that decouple **time** from **money**. I architect for highly-regulated industries where security is not a checkbox—it’s a prerequisite for existence. My work focuses on **Infrastructure-as-Code**, **Zero-Trust Security**, and **FinOps** discipline to ensure that scale never comes at the cost of stability or profitability.
+Building systems that decouple **time** from **money**. Architecting for highly-regulated industries where security is not a checkbox — it’s a prerequisite for existence. My work focuses on **Infrastructure-as-Code**, **Zero-Trust Security**, and **FinOps** discipline to ensure that scale never comes at the cost of stability or profitability.
 
 ---
 
-### TokyoAPPI 🇯🇵 
-**Problem:** Architect a telemedicine platform requiring 99.99% availability while strictly adhering to Japan's APPI data residency laws.
+### 🗼 TokyoAPPI 🇯🇵
+**The Challenge:** Architect a telemedicine platform requiring 99.99% availability while strictly adhering to Japan's APPI data residency laws.
 
 <div align="center">
 
@@ -74,29 +71,25 @@ graph LR
 
 ---
 
-### Core
+### 🛠️ Core
 
 <div align="center">
 
 | Compute & Mesh | Infrastructure & Security | AI & Compliance |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes&theme=dark" height="45" /> | <img src="https://skillicons.dev/icons?i=terraform,vault,githubactions&theme=dark" height="45" /> | <img src="https://skillicons.dev/icons?i=python,bash,linux&theme=dark" height="45" /> |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes" height="45" /> | <img src="https://skillicons.dev/icons?i=terraform,vault,githubactions" height="45" /> | <img src="https://skillicons.dev/icons?i=python,bash,linux" height="45" /> |
 
 </div>
 
 ---
 
-### Tracker
+### 📊 Tracker
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true" alt="WakaTime Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true" height="180px" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true" height="180px" />
 
 </div>
 
