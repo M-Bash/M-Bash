@@ -37,7 +37,7 @@ Building systems that decouple **time** from **money**. Architecting for highly-
 ---
 
 ### 🗼 TokyoAPPI 🇯🇵
-**The Problem:** Architect a telemedicine platform requiring 99.99% availability while strictly adhering to Japan's APPI data residency laws.
+**Challenge:** Architect a telemedicine platform requiring 99.99% availability while strictly adhering to Japan's APPI data residency laws.
 
 <div align="center">
 
@@ -73,21 +73,27 @@ graph LR
 
 ### Core
 
+<div align="center">
+
 | Compute & Mesh | Infrastructure & Security | AI & Compliance |
 | :---: | :---: | :---: |
-| ![AWS](https://img.shields.io/badge/AWS-%238aadf4?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4?style=flat-square&logo=google-cloud&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%23c6a0f6?style=flat-square&logo=terraform&logoColor=white) ![Vault](https://img.shields.io/badge/Vault-%23f5a97f?style=flat-square&logo=hashicorp&logoColor=white) ![Actions](https://img.shields.io/badge/Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%23a6da95?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black) |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes" height="40" /> | <img src="https://skillicons.dev/icons?i=terraform,vault,githubactions" height="40" /> | <img src="https://skillicons.dev/icons?i=python,bash,linux" height="40" /> |
+
+</div>
 
 ---
 
 ### Tracker
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true" height="150" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true" height="150" />
+
+</div>
 
 ---
 
