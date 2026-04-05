@@ -77,7 +77,7 @@ graph LR
 
 | Compute & Mesh | Infrastructure & Security | AI & Compliance |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes" height="40" /> | <img src="https://skillicons.dev/icons?i=terraform,githubactions,linux" height="40" />&nbsp;<img src="https://img.shields.io/badge/Vault-%23FFCF25.svg?style=flat-square&logo=vault&logoColor=000000" height="24" /> | <img src="https://skillicons.dev/icons?i=python,bash,docker" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes" height="40" /> | <img src="https://skillicons.dev/icons?i=terraform,githubactions,docker" height="40" /> | <img src="https://skillicons.dev/icons?i=python,bash,linux" height="40" /> |
 
 </div>
 
@@ -87,11 +87,11 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=M_Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true" height="150" alt="WakaTime Stats" />
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true)](https://wakatime.com/@M_Bash)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true)](https://github.com/M-Bash)
 
 </div>
 
