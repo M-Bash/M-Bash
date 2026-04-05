@@ -33,13 +33,13 @@
 
 ---
 
-### 🧠 Engineering Philosophy
-I build systems that decouple **time** from **money**. I architect for highly-regulated industries where security is not a checkbox—it’s a prerequisite for existence. My work focuses on **Infrastructure-as-Code**, **Zero-Trust Security**, and **FinOps** discipline to ensure that scale never comes at the cost of stability or profitability.
+### Engineering Philosophy
+Building systems that decouple **time** from **money**. Architecting for highly-regulated industries where security is not a checkbox — it’s a prerequisite for existence. My work focuses on **Infrastructure-as-Code**, **Zero-Trust Security**, and **FinOps** discipline to ensure that scale never comes at the cost of stability or profitability.
 
 ---
 
-###🗼 TokyoAPPI 🇯🇵 
-**The Challenge:** Architect a telemedicine platform requiring 99.99% availability while strictly adhering to Japan's APPI data residency laws.
+### TokyoAPPI 🇯🇵 
+**Problem:** Architect a telemedicine platform requiring 99.99% availability while strictly adhering to Japan's APPI data residency laws.
 
 <div align="center">
 
