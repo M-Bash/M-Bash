@@ -2,6 +2,7 @@
 
 [![Profile Quality Gate](https://img.shields.io/github/actions/workflow/status/M-Bash/M-Bash/profile-quality-gate.yml?branch=main&style=for-the-badge&logo=github&label=Profile%20Quality%20Gate&color=a6da95)](https://github.com/M-Bash/M-Bash/actions/workflows/profile-quality-gate.yml)
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MAHAMED%20BASHIR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Engineer%20the%20Cost%20Down.%20Architect%20the%20Risk%20Out.&descSize=22&descAlignY=55&descAlign=62" width="100%" alt="M-Bash Banner" />
 
 <a href="https://git.io/typing-svg">
@@ -86,13 +87,11 @@ graph LR
 ### Tracker
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+</div>
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Bash&layout=compact&theme=catppuccin_macchiato&hide_border=true)](https://wakatime.com/@M_Bash)
-
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Bash&show_icons=true&theme=catppuccin_macchiato&hide_border=true&count_private=true)](https://github.com/M-Bash)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Bash&theme=tokyonight" alt="Summary Card" width="100%"/>
 </div>
 
 ---
